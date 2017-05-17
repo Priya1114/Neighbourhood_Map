@@ -1,0 +1,90 @@
+body
+ {
+
+background-color:#7f5f66;
+
+color:#000;
+
+height:100%;
+
+margin:0;
+
+padding:0;
+
+}
+
+
+h1
+ {
+
+font-weight:bolder;
+font-size:50px;
+
+font-family: times ;
+
+}
+
+
+h5
+ {
+
+font-size:25px;
+
+}
+
+
+#searchbar 
+{
+
+width:200px;
+
+max-height:500px;
+
+border:groove 2px #000;
+
+overflow:hidden;
+
+}
+
+
+.main-nav 
+{
+
+color:#000;
+
+text-align:left;
+
+font-size:22px;
+
+}
+
+
+li {
+
+cursor:pointer;
+
+color:#000;
+
+margin:.5em 0;
+
+}
+
+
+li:hover {
+
+color:#FFF;
+
+}
+
+
+#map {
+
+width:100%;
+
+height:85vh;
+top:0;
+
+bottom:0;
+
+}
+
