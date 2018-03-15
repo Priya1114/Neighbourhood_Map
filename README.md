@@ -1,10 +1,15 @@
 #Neigborhood map:
 
-It is 6th project of Full Stack Nanodegree.
-This is a single page application featuring a map of your neighborhood or a neighborhood you would like to visit. 
+Check the Project here:
+
+https://priya1114.github.io/Neighbourhood_Map/ProjectMap/index.html
+
+This Project a single page application featuring a map of a State. 
 
 This Project shows google maps view of places in Uttar Pradesh.
+
 Famous places of uttar pradesh like:
+
 Allahabad,Agra,Mathura,Lucknow etc. are Highlighted in the map with markers.
 Also marker color is changed on mouseover.
 
