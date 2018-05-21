@@ -1,7 +1,7 @@
 Neigborhood map:
 
-It is 6th project of Full Stack Nanodegree.
-This is a single page application featuring a map of your neighborhood or a neighborhood you would like to visit. 
+
+This is a single page application featuring a map of a state you would like to visit. 
 
 This Project shows google maps view of places in Uttar Pradesh.
 Famous places of uttar pradesh like:
